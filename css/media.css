@@ -31,13 +31,27 @@
     margin-bottom: 10px;
     padding: 0 15px !important;
 }
+/* banner start  */
+.b_img{
+    padding: 0 100px;
+}
+/* banner end  */
+}
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) { 
-   
+   /* banner start  */
+   .b_h1 {
+    font-size: 40px;
+}
+   /* banner end  */
  }
 
 /* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) and (max-width:1399.98px) { 
 
  }
+/* Extra large devices (large desktops, 1400px and up) */
+ @media (min-width: 1400px)  { 
+
+}

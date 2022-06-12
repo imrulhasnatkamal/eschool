@@ -53,3 +53,49 @@ header{
 .logo{
 
 }
+
+/* banner start  */
+.banner{
+    padding: 35px 0 65px 0;
+    background-color: #F0FFF0;
+}
+.b_text{
+
+}
+.b_text p{
+
+}
+.red{
+    color: #FD511A;
+    line-height: 24px;
+}
+.b_h1{
+    margin: 10px 0 20px 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    color: #000000;
+    
+}
+.b_h1 span{
+    color: #21B573;;
+}
+.black{
+    line-height: 36px;
+}
+.b_text p span {
+
+}
+
+.btn_sign2 {
+    margin: 15px 0 0 0;
+    width: 143px;
+}
+.b_img{
+    
+}
+b.b_img img{
+
+}
+.
+/* banner end  */
