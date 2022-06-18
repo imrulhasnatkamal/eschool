@@ -3,6 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 400 !important;
+    background-color:#E5E5E5;
     color: #000000;
 }
 /* common :end */
@@ -62,15 +63,14 @@ header{
 .b_text{
 
 }
-.b_text p{
 
-}
 .red{
     color: #FD511A;
-    line-height: 24px;
+    line-height: 25px;
 }
 .b_h1{
     margin: 10px 0 20px 0;
+    padding: 0 110px 0 0;
     font-size: 48px;
     font-weight: 700;
     line-height: 70px;
@@ -97,5 +97,186 @@ header{
 b.b_img img{
 
 }
-.
+
 /* banner end  */
+/* feature start  */
+
+.feature{
+    padding-bottom: 100px;
+}
+.signitm{
+    margin: 40px 0 0 0;
+    padding: 55px 0 50px 0;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.signitm:hover{
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+
+}
+.siimg{
+
+}
+.siimg img {
+
+}
+.signitm h1 {
+    margin: 22px 0 0 0 !important;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color:#000000;
+}
+.signitm p {
+    line-height: 24px;
+    color:#000000;
+    
+}
+/* feature end  */
+/* course start  */
+.course{
+    padding-bottom: 100px;
+}
+.c_title {
+  
+}
+
+.c_h1{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+}
+.crsitm{
+    margin-top: 60px;
+    padding: 25px 20px 30px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    overflow: hidden;
+}
+.crssi{
+
+}
+.crssi img {
+    border-radius: 11px;
+    width: 100%;
+}
+.crsitm h2 {
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+.crsitm p {
+    line-height: 24px;
+}
+.crsitm a {
+    margin: 20px 0 35px 0;
+    padding: 8px 28px;
+    width: 137px;
+    height: 35px;
+    color: white;
+    line-height: 19px;
+}
+.crsfoot{
+
+}
+.date{
+
+}
+
+.date ul li{
+    
+}
+.date ul li img{
+    width: 16px;
+}
+.date ul li span{
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.seat{
+
+}
+
+.seat ul li{
+
+}
+.seat ul li img{
+    width: 18px;
+}
+.seat ul li span{
+    font-weight: 500;
+    line-height: 24px;
+}
+/* course end  */
+/* testi start  */
+.testimn{
+    padding-bottom: 100px;
+    background-color: #E5E5E5;
+}
+.c_title2{
+    margin-bottom: 75px;
+}
+.testiimg{
+
+}
+.testiimg img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.testitext{
+
+}
+.testitext p{
+    line-height: 30px;
+}
+/* testi end  */
+/* footer start  */
+.foot{
+    padding: 55px 0 30px 0;
+    color: white;
+    background-color: #282531;
+}
+.foot_text{
+
+}
+.foot_text p{
+   
+    line-height: 30px;
+}
+.crs_li{
+    margin-bottom: 75px;
+}
+.crs_li ul{
+
+}
+.crs_li ul li h3{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+}
+.crs_li ul li {
+    list-style: none;
+}
+.crs_li ul li a {
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+    text-decoration: none;
+}
+.copy {
+   
+}
+.copy p {
+    
+}
+/* footer end  */
+
+.dropdown{
+    
+}
